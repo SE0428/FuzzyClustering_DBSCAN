@@ -23,7 +23,7 @@ Fuzzy clustering with EM algorithm
 ### result
 Reassigning the clusters to all data points is proceeded, which is decided by comparing the distances to both c0 and c1.
 
-![picture](/Fuzzy Results.png)
+![alternativetext](/Fuzzy Results.png)
 
 
 
